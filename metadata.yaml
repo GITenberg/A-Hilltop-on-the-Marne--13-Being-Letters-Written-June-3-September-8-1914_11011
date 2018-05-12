@@ -1,5 +1,8 @@
 _repo: A-Hilltop-on-the-Marne--13-Being-Letters-Written-June-3-September-8-1914_11011
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aldrich, Mildred
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3792
     wikipedia: http://en.wikipedia.org/wiki/Mildred_Aldrich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11011#A-Hilltop-on-the-Marne--13-Being-Letters-Written-June-3-September-8-1914
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
